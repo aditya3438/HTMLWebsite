@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+    font-size: 100px;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  .nav {
+    background-color: yellow; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
